@@ -31,7 +31,9 @@ https://www.wikihow.com/Create-an-Account-on-GitHub
 
 #### Create new branch and add a file in directory `ADD-YOUR-FILE-HERE/`
 
-- Clone the repository from your repo `<your-github-account>/linux2-git`
+- Clone the repository from your repository `<your-github-account>/linux2-git`
+
+![](../assets/clone.png)
 
 - Create a new branch
 
@@ -41,10 +43,14 @@ https://www.wikihow.com/Create-an-Account-on-GitHub
 
 #### Make a pull request to `maiyuki/linux2-git` repository
 
-- Merge your branch to master in the repository in your account (not maiyuki)
+- Compare your changes and make a pull request in `<your-github-account>/linux2-git` You can either do it in the terminal or in the gui in your repository `<your-github-account>/linux2-git`
+![](../assets/compare.png)
 
-- Make a pull request to `maiyuki/linux2-git` repository
+- Merge the pull request in `<your-github-account>/linux2-git`
 
+- Make a pull request in `<your-github-account>/linux2-git` which will do a pull request in to `maiyuki/linux2-git` repository
+
+![](../assets/pull-request.png)
 
 
 ### Basic git commands (hints)
@@ -60,6 +66,9 @@ git branch
 git merge
 git help
 ```
+
 ---
 
 ### Answers
+
+See `../basic-commands/README`
