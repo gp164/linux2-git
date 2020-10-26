@@ -35,13 +35,13 @@ https://www.wikihow.com/Create-an-Account-on-GitHub
 
 - Create a new branch
 
-- create a new file in `ADD-YOUR-FILE-HERE/`
+- Create a new file in `ADD-YOUR-FILE-HERE/`
 
 - Make a commit and push
 
 #### Make a pull request to `maiyuki/linux2-git` repository
 
-- Merge your branch to master in the repository in your account (not Mai's)
+- Merge your branch to master in the repository in your account (not maiyuki)
 
 - Make a pull request to `maiyuki/linux2-git` repository
 
