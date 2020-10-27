@@ -4,10 +4,8 @@
 
 These are individual labs in a group. You do the labs on your local machine and help each other.
 
-###
 
-
-## Objectives
+## Labs
 
 - Basic git commands
 - Make a pull request on a repository in Github

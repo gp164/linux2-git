@@ -18,9 +18,7 @@ git
 
 ## TODO
 
-### Using git in a team
-
-#### Create a github account
+#### Create a Github account
 
 https://www.wikihow.com/Create-an-Account-on-GitHub
 
@@ -29,9 +27,9 @@ https://www.wikihow.com/Create-an-Account-on-GitHub
 - Find the fork button in the upper right corner. it will be added to your repository
 ![](../assets/fork.png)
 
-#### Create new branch and add a file in directory `ADD-YOUR-FILE-HERE/`
+#### In your forked repository, create a new branch, add a file in directory `ADD-YOUR-FILE-HERE/`, push and merge to master branch
 
-- Clone the repository from your repository `<your-github-account>/linux2-git`
+- Clone the repository from your repository `<your-github-account>/linux2-git` to your local machine
 
 ![](../assets/clone.png)
 
@@ -39,19 +37,20 @@ https://www.wikihow.com/Create-an-Account-on-GitHub
 
 - Create a new file in `ADD-YOUR-FILE-HERE/`
 
-- Make a commit and push
+- Make a commit and make a push to your repository
+
+- Visit your repository on Github, click on `Compare & pull request` to make a pull request to your master branch
+![](../assets/compare.png)
+
+- Merge the branch to your master branch
 
 #### Make a pull request to `maiyuki/linux2-git` repository
 
-- Compare your changes and make a pull request in `<your-github-account>/linux2-git` You can either do it in the terminal or in the gui in your repository `<your-github-account>/linux2-git`
-![](../assets/compare.png)
-
-- Merge the pull request in `<your-github-account>/linux2-git`
-
-- Make a pull request in `<your-github-account>/linux2-git` which will do a pull request in to `maiyuki/linux2-git` repository
+- Make a pull request in `<your-github-account>/linux2-git` which will do a pull request to `maiyuki/linux2-git` repository
 
 ![](../assets/pull-request.png)
 
+- Wait for approval...
 
 ### Basic git commands (hints)
 
@@ -64,6 +63,8 @@ git add
 git diff
 git branch
 git merge
+git push
+git reset
 git help
 ```
 

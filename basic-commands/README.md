@@ -36,11 +36,11 @@ git
 
 - Make an initial commit
 
-#### Checkout to a new branch, make changes and merge it back to master
+#### Checkout to a new branch, make changes, and merge it back to master
 
 - Checkout a new branch and with a name of choice
 
-- Create two new files, both with content and save
+- Create two new files, both with content, and save
 
 - Check status
 
@@ -62,13 +62,13 @@ git
 
 #### Merge branch to master
 
-- Check status and verify that there are nothing to be commited
+- Check status and verify that there i nothing to be committed
 
 - Check branches merged in master
 
 - Checkout to master branch
 
-- Verify that you have master and another branch
+- Verify that you have a master and another branch
 
 - Verify that you only have the initial file
 
@@ -87,6 +87,7 @@ git add
 git diff
 git branch
 git merge
+git reset
 git help
 ```
 ---
@@ -209,7 +210,7 @@ git commit -m "Added changes"
 
 #### Merge branch to master
 
-- Check status and verify that there are nothing to be commited
+- Check status and verify that there is nothing to be committed
 
 ```bash
 git status
@@ -227,7 +228,7 @@ git branch --merged master
 git checkout master
 ```
 
-- Verify that you have master and another branch
+- Verify that you have a master and another branch
 
 ```bash
 git branch
