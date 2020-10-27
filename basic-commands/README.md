@@ -64,7 +64,7 @@ git
 
 - Check status and verify that there i nothing to be committed
 
-- Check branches merged in master
+- See what branches are merged in master, for the moment, only maste rshould be displayed
 
 - Checkout to master branch
 
@@ -74,7 +74,7 @@ git
 
 - Merge branch into master
 
-- Verify that you have merged
+- Verify that you now have a merged branch to master
 
 ### Basic git commands (hints)
 
@@ -216,7 +216,7 @@ git commit -m "Added changes"
 git status
 ```
 
-- Check branches merged in master
+- See what branches are merged in master, for the moment, only maste rshould be displayed
 
 ```bash
 git branch --merged master
@@ -246,7 +246,7 @@ ls
 git merge my-new-branch
 ```
 
-- Verify that you have merged
+- Verify that you now have a merged branch to master
 
 ```bash
 git branch --merged master
