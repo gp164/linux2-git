@@ -44,7 +44,7 @@ git
 
 - Check status
 
-- Add file to the index
+- Add files to the index
 
 - Check status
 
@@ -159,7 +159,7 @@ echo "My content again" > "file-3.txt"
 git status
 ```
 
-- Add file to the index
+- Add files to the index
 
 ```bash
 git add .
