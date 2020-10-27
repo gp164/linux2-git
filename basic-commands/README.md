@@ -50,11 +50,11 @@ git
 
 - Make a commit
 
-- Make a change in the content of both of the file and save
+- Make a change in the content of both of the files and save
 
 - Show changes between commits
 
-- Add file to the index
+- Add files to the index
 
 - Check status
 
@@ -177,7 +177,7 @@ git status
 git commit -m "Added two files"
 ```
 
-- Make a change in the content of both of the file and save
+- Make a change in the content of both of the files and save
 
 ```bash
 echo "More of my content" > "file-2.txt"
@@ -190,7 +190,7 @@ echo "More of my content again" > "file-3.txt"
 git status
 ```
 
-- Add file to the index
+- Add files to the index
 
 ```bash
 git add .
