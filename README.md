@@ -4,7 +4,6 @@
 
 These are individual labs in a group. You do the labs on your local machine and help each other.
 
-
 ## Labs
 
 - Basic git commands
@@ -13,7 +12,6 @@ These are individual labs in a group. You do the labs on your local machine and 
 ## Software
 
 git
-
 
 ## Links
 
