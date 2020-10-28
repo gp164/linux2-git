@@ -62,9 +62,9 @@ git
 
 #### Merge branch to master
 
-- Check status and verify that there i nothing to be committed
+- Check status and verify that there is nothing to be committed
 
-- See what branches are merged in master, for the moment, only maste rshould be displayed
+- See what branches are merged in master, for the moment, only master should be displayed
 
 - Checkout to master branch
 
@@ -216,7 +216,7 @@ git commit -m "Added changes"
 git status
 ```
 
-- See what branches are merged in master, for the moment, only maste rshould be displayed
+- See what branches are merged in master, for the moment, only master should be displayed
 
 ```bash
 git branch --merged master
